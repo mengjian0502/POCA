@@ -12,10 +12,10 @@ Although the low precision quantization has been widely investigated, compressin
 
 ## Usage
 ### Build the POCA Environment
-Following the `poca.yml` file and install the Conda virtual environment. 
+Following the `requirement.txt` file and install the Conda virtual environment. 
 
 ```
-conda env create -f poca.yml
+conda env create -f requirement.txt
 ```
 
 ### Install Nvidiffrast 
