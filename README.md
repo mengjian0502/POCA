@@ -1,7 +1,11 @@
 # POCA
 Open-sourced Implementation of POCA: Post Training Quantization of Codec Avatar (ECCV, 2024)
 
-Post-Training Quantization for Codec Avatar Model
+Post-Training Quantization for Codec Avatar Model with Jittering-Free rendering. 
+
+## Authors
+
+Jian Meng, Yuecheng Li, Leo (Chenghui) Li, Syed Shakib Sarwar, Diling Wang, and Jae-sun Seo
 
 [[**Website**](https://mengjian0502.github.io/poca.github.io/)] [[**Paper**](https://github.com/mengjian0502/POCA)] [[**Dataset**](https://github.com/facebookresearch/multiface)]
 
